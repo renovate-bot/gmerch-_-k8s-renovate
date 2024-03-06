@@ -1,7 +1,7 @@
 ---
 image:
   repository: bitnamicharts/mysql
-  version: 9.9.0
+  version: 9.23.0
 persistence:
   enabled: true
   size: 10Gi
